@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container
+{
+    width: 1200px;
+    height: 1050px;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 1px 2px 30px #888888;
+    
+}
+.top
+{
+    margin-top: 15px;
+}
+.header
+{
+    width: 600px;
+    height: 250px;
+    margin: 0 auto; 
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header_h4_div
+{
+    width: 250px;
+    color: rgb(5, 5, 202);
+   
+}
+.header_h2_div
+{   
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ul 
+{
+    width: 350px;
+    list-style: none;
+    margin-left: 90px;
+}
+.li_1, .li_2, .li_3
+{
+    display: flex;
+}
+li
+{
+    margin-left: 7px;
+}
+.ion
+{
+    color: rgb(5, 5, 202);   
+}
+.main 
+{
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 70px;
+}
+.profile
+{
+    width: 450px;
+}
+.about
+{
+    font-size: 18px
+}
+
+.skills01
+{
+    display: flex;
+    justify-content: space-between;
+
+}
+.main_1
+{
+    display: flex;
+    justify-content: space-between;
+}
+.skills
+{
+    width: 450px;
+}
+.skil1 
+{
+    display: flex;
+    padding-top: 20px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.icon, .icon2
+{
+    color: rgb(5, 5, 202);
+}
+.skil2
+{
+    display: flex;
+    padding-top: 20px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.skil1_p
+{
+    margin-left: 12px;
+}
+.icon2
+{
+    margin-right: 12px;
+}
+
+.footer
+{
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 70px;
+}
+.education1
+{
+    
+    display: flex;
+    justify-content: space-between;
+}
+.education1_p
+{
+    color: rgb(5, 5, 202);
+}
+.school_p, .education1_p1
+{
+    color: gray;
+}
+
+.education2
+{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+.education3
+{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+}
